@@ -1,0 +1,18 @@
+{
+  "name": "isbn_search",
+  "version":"0.0.1",
+  "description":"ISBN searching API library",
+  "keywords": ["isbn"],
+  "repository": "https://github.com/dpz3579/isbnAPI.git",
+  "homepage": "https://github.com/dpz3579",
+  "author": "Dipesh Sharma <dipesh357@hotmail.com>",
+  "dependencies": {
+    "node-isbn": "^1.2.0",
+    "express": "*"
+  },
+  "main": "app.js",
+  "repository":{
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
